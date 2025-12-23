@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: 我愛楊宜潔
+title: Kevin Charng
 
 # Your name to show in the footer
 author: Kevin Charng
@@ -19,12 +19,18 @@ author: Kevin Charng
 # --- List of links in the navigation bar --- #
 ###############################################
 
+# navbar-links:  原本的模板
+#   About Me: "aboutme"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
+
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "projects"
+  Blog: "blog"
+
 
 ################
 # --- Logo --- #
