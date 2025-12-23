@@ -3,11 +3,16 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+I am a Failure Analysis Engineer working on AI server production lines,
+focusing on FPY, OTD, and manufacturing analytics.
 
-My name is Inigo Montoya. I have the following qualities:
+I am interested in data engineering, machine learning,
+and RAG-based repair recommendation systems.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#My name is Inigo Montoya. I have the following qualities:
+
+#- I rock a great mustache
+#- I'm extremely loyal to my family
 
 What else do you need?
 
